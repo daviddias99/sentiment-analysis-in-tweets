@@ -6,6 +6,6 @@ We used NLP techniques to pre-process the data and to classify it according to t
 
 For more details on the project see the ```src/``` folder.
 
-This project was developed for the IART (Artificial Intelligence) class at FEUP. It was a group with [Manuel Coutinho](https://github.com/ManelCoutinho) and [Luís Cunha](https://github.com/luispcunha).
+This project was developed for the IART (Artificial Intelligence) class at FEUP. It was a group project with [Manuel Coutinho](https://github.com/ManelCoutinho) and [Luís Cunha](https://github.com/luispcunha).
 
 **Grade:** 19/20
