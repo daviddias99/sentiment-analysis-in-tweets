@@ -2,7 +2,7 @@
 
 **2019/2020** - 3rd Year, 2nd Semester
 
-**Course:** *Inteligência Artificial* ([PROG](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=399883)) | Artificial Intelligence
+**Course:** *Inteligência Artificial* ([IART](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436449)) | Artificial Intelligence
 
 **Authors:** David Silva ([daviddias99](https://github.com/daviddias99)), Luís Cunha ([luispcunha](https://github.com/luispcunha)) and Manuel Coutinho ([ManelCoutinho](https://github.com/ManelCoutinho))
 
